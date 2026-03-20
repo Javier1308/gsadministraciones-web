@@ -34,7 +34,7 @@ export default function HeroSection() {
             objectFit: 'cover',
           }}
         >
-          <source src="/DroneLima.mp4" type="video/mp4" />
+          <source src="https://archive.org/download/drone-lima/DroneLima.mp4" type="video/mp4" />
         </video>
         {/* Capa de oscurecimiento para legibilidad del texto */}
         <div
