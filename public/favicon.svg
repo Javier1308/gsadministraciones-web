@@ -1,0 +1,11 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" fill="#1C2D4F"/>
+  <!-- Pilar izquierdo -->
+  <rect x="5" y="15" width="4" height="12" fill="#9AAFC4"/>
+  <!-- Pilar derecho -->
+  <rect x="23" y="15" width="4" height="12" fill="#9AAFC4"/>
+  <!-- Arco arquitectonico -->
+  <path d="M5 15 C5 5 27 5 27 15" stroke="#9AAFC4" stroke-width="2.5" fill="none"/>
+  <!-- Base -->
+  <rect x="3" y="27" width="26" height="2" fill="#9AAFC4" opacity="0.45"/>
+</svg>
